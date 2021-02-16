@@ -1,2 +1,4 @@
 # Tailwind-Starter
-Quickly start a Project using the Tailwind CSS Framework
+to quickly start a project using Tailwind CSS framework.
+
+Source: https://tailwindcss.com/docs/installation#using-tailwind-without-post-css
